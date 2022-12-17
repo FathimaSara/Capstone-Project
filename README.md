@@ -14,9 +14,6 @@
  [Link](https://medium.com/@sarafathima187/capstone-project-c7205d2657e3) to my blog post.
  
  
- 
- 
-
 <a name="install"></a>
 ## 2. Installation
 Python version 3.<br>
