@@ -11,7 +11,7 @@
 ## 1. Introduction
  This is part of Udacity Data Science course.For this project I have choosed - Using Spark to Predict Churn with Insight Data Science.
  Manipulated large and realistic datasets with Spark for predicting churn. Used Spark MLlib to build machine learning models with large datasets.<br>
- Link to my blog post.
+ [Link](https://medium.com/@sarafathima187/capstone-project-c7205d2657e3) to my blog post.
  
  
  
@@ -43,3 +43,4 @@ Libraries:
 
 <a name="acknowledgement"></a>
 ## 5.Acknowledgement 
+I would like to thank Udacity mentors for their support.
